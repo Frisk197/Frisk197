@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frisk197
 - 👀 I’m interested in Virtual Reality
-- 🌱 I’m currently learning Programmation
+- 🌱 I’m currently learning Programing
 - 💞️ I’m looking to collaborate on Nothing for now (i have personal and school project and no time)
 - 📫 How to reach me Discord : FRISK#9042
 
