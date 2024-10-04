@@ -2,7 +2,7 @@
 - 👀 I’m interested in Virtual Reality
 - 🌱 I’m currently learning Programing
 - 💞️ I’m looking to collaborate on Nothing for now (i have personal and school project and no time)
-- 📫 How to reach me Discord : FRISK#9042
+- 📫 How to reach me Discord : frisk9042
 
 <!---
 Frisk197/Frisk197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
